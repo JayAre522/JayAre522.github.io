@@ -5,4 +5,4 @@
 ### Ive seen tigers all over the united states, Japan and even Thailand. 
 ### My favorite tiger is the white tiger, which is rare.
 
-check out my [bio](bio.md) 
+
