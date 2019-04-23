@@ -5,6 +5,6 @@
 ### Ive seen tigers all over the united states, Japan and even Thailand. 
 ### My favorite tiger is the white tiger, which is rare.
 
-![TIGER2](Tiger 2.jpeg)
+[TIGER2](Tiger 2.jpeg)
 
-![TIGER](TIGER.jpg)
+
