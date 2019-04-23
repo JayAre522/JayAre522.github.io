@@ -2,3 +2,5 @@
 
 ![TIGER](TIGER.jpg)
  CHECK OUT MY [BIOGRAPHY](bio.md) 
+ Check out My [TOPIC](topic.md)
+
